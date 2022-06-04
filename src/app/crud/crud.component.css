@@ -1,0 +1,176 @@
+h1 { color: #e01462; font-family: 'Raleway',sans-serif; font-size: 62px; font-weight: 800; line-height: 72px; margin: 0 0 24px; text-align: center; text-transform: uppercase; }
+.containertitle{
+    display: flex;
+    margin-top: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.AddEmployeeTitleContainer{
+    display: flex;
+}
+.WarningTextContainer{
+    display: flex;
+    color: #f44336;
+    font-style:oblique;
+}
+
+.Centercontainer {
+    display: flex;
+    justify-content: center;
+  }
+
+.one{
+    flex: 1;
+    padding: 10px;
+}
+
+.deletebtn {background-color: #f44336;} 
+
+.addEmployeeBtnContainer{
+    flex: 1;
+    background: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.flex-container {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+  }
+
+.tableWrapper{
+    margin-top: 20px;
+    padding: 20px;
+    background: white;
+}
+
+.addNewEmployeeBtn{
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    line-height: 28px;
+    color: white;
+    border-radius: 5px;
+    background: green;
+    margin-top: 18px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.addEmployeeTitleContainer{
+    background: white;
+    padding: 20px 20px 0px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.editEmployeeTitleContainer{
+    background: white;
+    padding: 20px 20px 0px 20px;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    border-top-left-radius: 10px;
+}
+
+.oneTitle{
+    flex: 1;
+    padding: 10px;
+    background: gray;
+    color: white;
+}
+
+.name{
+    background: white;
+    padding: 5px 15px 15px 20px;
+}
+
+.position{
+    background: white;
+    padding: 0px 15px 15px 20px;
+}
+
+.input{
+    border: none;
+    height: 32px;
+    padding-left: 10px;
+    width: 60%;
+    border-radius: 5px;
+}
+
+.positionInput{
+    border: none;
+    height: 32px;
+    padding-left: 10px;
+    width: 60%;
+    border-radius: 5px;
+}
+
+.saveBtn{
+    background: green;
+    color: white;
+    border: none;
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.submitBtnContainer{
+    background: white;
+    padding: 0px opx 20px 20px;
+}
+
+.two{
+    flex: 1;
+    padding: 10px;
+}
+
+.twoTitle{
+    flex: 1;
+    padding: 10px;
+    background: grey;
+    color: white;
+}
+
+.three{
+    flex: 1;
+    padding: 10px;
+}
+
+.threeTitle{
+    flex: 1;
+    padding: 10px;
+    background: grey;
+    color: white;
+}
+
+.containerListItems{
+    display: flex;
+}
+
+
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+  .sbutton {
+    background: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 16px;
+  }
